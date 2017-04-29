@@ -1,2 +1,6 @@
 # hello-world
-my first repository
+
+Get Down!
+
+My first docuemnted use of Github...
+On the system now!!
